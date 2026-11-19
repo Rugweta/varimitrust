@@ -39,6 +39,26 @@ VarimiTrust lists opportunities in technology, operations, and agronomy, includi
 Visit the [join section](https://varimitrust.com/#join) for current opportunities and membership information.
 
 
+## Technology we're exploring
+
+We’re interested in practical tools that can support farmers and cooperatives:
+
+- **Farm records** to make it easier to keep and use useful farm information.
+- **Field data and GIS** for mapping plots and recording yield, rainfall, and other field observations.
+- **Agritech pilots** such as weather alerts, SMS reminders, and sensors, tested with farmers before wider use.
+- **Data and market analysis** to help make field records, prices, and trends easier to understand.
+- **Digital communications** to share timely updates and field stories through accessible channels.
+
+### Open-source tools to learn from
+
+These are examples to evaluate, not tools VarimiTrust has adopted:
+
+- [farmOS](https://github.com/farmOS/farmOS) — farm records for crops, livestock, equipment, and field activities.
+- [QField](https://github.com/opengisch/QField) — mobile GIS for collecting and using field data.
+- [ERPNext](https://github.com/frappe/erpnext) — business tools for accounting, inventory, and operations.
+
+Any pilot should be assessed for offline use, ease of adoption, data ownership, support costs, and licensing.
+
 ## Contact
 
 Use the [contact form](https://varimitrust.com/#contact) to get in touch or ask about joining the community.
